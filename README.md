@@ -1,4 +1,4 @@
-# Mihir Joshi CV
+# Mihir Joshi
 ## Software Development | Python | Business Analytics  
 
 # Education
