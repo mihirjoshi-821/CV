@@ -1,4 +1,5 @@
-# Mihir Joshi
+# Mihir Joshi 
+Email- joshimihir10@gmail.com
 ## Software Development | Python | Business Analytics  
 
 # Education
